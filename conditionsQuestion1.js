@@ -10,4 +10,5 @@ function laergestNumber(a, b, c){
     }
 }
 
+
 console.log(laergestNumber(10, 40, 60));
