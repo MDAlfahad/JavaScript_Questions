@@ -5,7 +5,8 @@ var fruitname = "Banana";
 console.log(fruit);
 console.log(fruitName);
 console.log(fruitname);
-// console.log(fruitName)
+
+// this is all about fruits
 
 {
   /* Output 
